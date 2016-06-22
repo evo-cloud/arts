@@ -1,12 +1,17 @@
 This file lists the authorization of artworks from original author.
 
-logos/evo-cloud.svg
--------------------
-
+--------------------------------------------------------------------------------
+Source:
+  - logos/evo.svg
+  - logos/evo-cloud.svg
 Author: EaseWay Hu <easeway@gmail.com>
 Authorization:
    This logo is authorized to be used in any projects belong to evo-cloud
    (https://github.com/evo-cloud) in the original form (.svg) or any generated
    image formats, WITHOUT modification.
+
+   evo.svg can be scaled, colored and overlayed on other logos which belong to
+   evo-* projects, including evo-cloud, evo-bots.
+
 Authorized-By: EaseWay Hu <easeway@gmail.com>
 Authorized-Date: Jun 21, 2016
